@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "134346867115",
+    "firebase_url": "https://newaccountant-3151e.firebaseio.com",
+    "project_id": "newaccountant-3151e",
+    "storage_bucket": "newaccountant-3151e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134346867115:android:92706d9ead1c728d",
+        "android_client_info": {
+          "package_name": "app.com.example.android.newaccountant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134346867115-lk8q406ru0hpu8047tgrih7shom40fjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.example.android.newaccountant",
+            "certificate_hash": "d09f65a9069177bd8f3bd38fab66d07405d12365"
+          }
+        },
+        {
+          "client_id": "134346867115-49kqrscfli709ii3sj3kiaojqn3ger01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVc5CQtBRHiYnejctEgFt_hbrF4H4tF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134346867115-49kqrscfli709ii3sj3kiaojqn3ger01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
